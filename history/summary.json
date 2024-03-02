@@ -1,6 +1,6 @@
 [
   {
-    "name": "浅滩 qwq.ooo",
+    "name": "浅滩 qwq.ooo - Mastodon Server",
     "url": "https://qwq.ooo",
     "icon": "https://icons.duckduckgo.com/ip3/qwq.ooo.ico",
     "slug": "qwq-ooo",
@@ -10,15 +10,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 630,
-    "timeDay": 630,
-    "timeWeek": 630,
-    "timeMonth": 630,
-    "timeYear": 630,
+    "time": 604,
+    "timeDay": 604,
+    "timeWeek": 604,
+    "timeMonth": 604,
+    "timeYear": 604,
     "dailyMinutesDown": {}
   },
   {
-    "name": "Islet",
+    "name": "Islet - Media Storage",
     "url": "https://islet.qwq.ooo",
     "icon": "https://icons.duckduckgo.com/ip3/islet.qwq.ooo.ico",
     "slug": "islet",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 485,
-    "timeDay": 485,
-    "timeWeek": 485,
-    "timeMonth": 485,
-    "timeYear": 485,
+    "time": 501,
+    "timeDay": 501,
+    "timeWeek": 501,
+    "timeMonth": 501,
+    "timeYear": 501,
     "dailyMinutesDown": {}
   }
 ]
