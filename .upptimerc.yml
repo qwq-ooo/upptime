@@ -2,10 +2,12 @@ owner: qwq-ooo
 repo: upptime
 
 sites:
-  - name: 浅滩 qwq.ooo
+  - name: 浅滩 qwq.ooo - Mastodon Server
+    slug: qwq-ooo
     url: https://qwq.ooo
     maxResponseTime: 20000
-  - name: Islet
+  - name: Islet - Media Storage
+    slug: islet
     url: https://islet.qwq.ooo
     maxResponseTime: 10000
     expectedStatusCodes:
