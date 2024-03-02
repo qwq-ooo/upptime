@@ -20,6 +20,7 @@ status-website:
   name: QWQ.OOO Status
   introTitle: "QWQ.OOO Status"
   introMessage: ""
+  theme: night
   navbar:
     - title: Status
       href: /
