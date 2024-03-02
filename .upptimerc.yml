@@ -4,6 +4,13 @@ repo: upptime
 sites:
   - name: 浅滩 qwq.ooo
     url: https://qwq.ooo
+    maxResponseTime: 20000
+  - name: Islet
+    url: https://islet.qwq.ooo
+    maxResponseTime: 10000
+    expectedStatusCodes:
+      - 200
+      - 404
 
 status-website:
   # cname: demo.upptime.js.org
