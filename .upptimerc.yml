@@ -4,15 +4,23 @@ repo: upptime
 sites:
   - name: 浅滩 qwq.ooo - Mastodon Server
     slug: qwq-ooo
-    url: https://qwq.ooo
+    url: https://qwq.ooo/api/v2/instance
     maxResponseTime: 20000
-  - name: Islet - Media Storage
+  - name: Islet - Mastodon Media Storage
     slug: islet
     url: https://islet.qwq.ooo
     maxResponseTime: 10000
     expectedStatusCodes:
       - 200
       - 404
+  - name: Matrix Server
+    slug: matrix
+    url: https://matrix.qwq.ooo/_matrix/federation/v1/version
+    maxResponseTime: 20000
+  - name: Gitea
+    slug: gitea
+    url: https://git.foxb612.com/api/v1/version
+    maxResponseTime: 20000
 
 status-website:
   cname: status.qwq.ooo
