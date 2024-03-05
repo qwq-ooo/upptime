@@ -21,13 +21,37 @@ sites:
     slug: gitea
     url: https://git.foxb612.com/api/v1/version
     maxResponseTime: 20000
+  - name: relay.acg.mn ActivityPub 中继
+    slug: relay-acg-mn
+    url: https://relay.acg.mn/inbox
+    maxResponseTime: 20000
+    expectedStatusCodes:
+      - 405
+  - name: DragonRelay
+    slug: relay-dragon-fly-club
+    url: https://relay.dragon-fly.club/inbox
+    maxResponseTime: 20000
+    expectedStatusCodes:
+      - 405
+  - name: 喵家中继
+    slug: relay-nya-one
+    url: https://relay.nya.one/inbox
+    maxResponseTime: 20000
+    expectedStatusCodes:
+      - 405
+  - name: mstdn.1 Toot Relay
+    slug: relay-mstdn-one
+    url: https://relay.mstdn.one/inbox
+    maxResponseTime: 20000
+    expectedStatusCodes:
+      - 405
 
 status-website:
   cname: status.qwq.ooo
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: QWQ.OOO Status
   introTitle: "QWQ.OOO Status"
-  introMessage: ""
+  introMessage: "Here lists the status of services running on qwq.ooo and the services on which qwq.ooo depends."
   theme: night
   navbar:
     - title: Status
