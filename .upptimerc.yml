@@ -24,27 +24,31 @@ sites:
   - name: relay.acg.mn ActivityPub 中继
     slug: relay-acg-mn
     url: https://relay.acg.mn/inbox
+    method: POST
     maxResponseTime: 20000
     expectedStatusCodes:
-      - 405
+      - 400
   - name: DragonRelay
     slug: relay-dragon-fly-club
     url: https://relay.dragon-fly.club/inbox
+    method: POST
     maxResponseTime: 20000
     expectedStatusCodes:
-      - 405
+      - 400
   - name: 喵家中继
     slug: relay-nya-one
     url: https://relay.nya.one/inbox
+    method: POST
     maxResponseTime: 20000
     expectedStatusCodes:
-      - 405
+      - 400
   - name: mstdn.1 Toot Relay
     slug: relay-mstdn-one
     url: https://relay.mstdn.one/inbox
+    method: POST
     maxResponseTime: 20000
     expectedStatusCodes:
-      - 405
+      - 400
 
 status-website:
   cname: status.qwq.ooo
