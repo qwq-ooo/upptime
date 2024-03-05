@@ -1,7 +1,7 @@
 url: https://relay.acg.mn/inbox
-status: down
-code: 404
-responseTime: 525
-lastUpdated: 2024-03-05T04:47:49.870Z
+status: up
+code: 400
+responseTime: 472
+lastUpdated: 2024-03-05T04:53:59.090Z
 startTime: 2024-03-05T04:47:49.006Z
 generator: Upptime <https://github.com/upptime/upptime>
