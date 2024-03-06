@@ -66,3 +66,5 @@ status-website:
 
 workflowSchedule:
   uptime: "0 0 * * *"
+
+skipDeleteIssues: true
