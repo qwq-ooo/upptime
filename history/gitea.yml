@@ -1,7 +1,7 @@
 url: https://git.foxb612.com/api/v1/version
-status: down
-code: 502
-responseTime: 481
-lastUpdated: 2024-03-06T08:15:25.567Z
+status: up
+code: 200
+responseTime: 609
+lastUpdated: 2024-03-06T08:20:29.369Z
 startTime: 2024-03-03T02:14:00.551Z
 generator: Upptime <https://github.com/upptime/upptime>
