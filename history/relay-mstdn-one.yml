@@ -1,7 +1,7 @@
 url: https://relay.mstdn.one/inbox
-status: degraded
+status: down
 code: 523
-responseTime: 23600
-lastUpdated: 2024-03-09T19:36:19.325Z
+responseTime: 3354
+lastUpdated: 2024-03-09T19:41:18.847Z
 startTime: 2024-03-05T04:47:54.283Z
 generator: Upptime <https://github.com/upptime/upptime>
