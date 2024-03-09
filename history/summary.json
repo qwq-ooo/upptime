@@ -130,19 +130,19 @@
     "url": "https://relay.mstdn.one/inbox",
     "icon": "https://icons.duckduckgo.com/ip3/relay.mstdn.one.ico",
     "slug": "relay-mstdn-one",
-    "status": "degraded",
-    "uptime": "86.71%",
-    "uptimeDay": "41.29%",
-    "uptimeWeek": "86.71%",
-    "uptimeMonth": "86.71%",
-    "uptimeYear": "86.71%",
+    "status": "down",
+    "uptime": "86.63%",
+    "uptimeDay": "40.87%",
+    "uptimeWeek": "86.63%",
+    "uptimeMonth": "86.63%",
+    "uptimeYear": "86.63%",
     "time": 3149,
     "timeDay": 8363,
     "timeWeek": 3149,
     "timeMonth": 3149,
     "timeYear": 3149,
     "dailyMinutesDown": {
-      "2024-03-09": 845
+      "2024-03-09": 851
     }
   }
 ]
