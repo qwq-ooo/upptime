@@ -5,48 +5,48 @@ sites:
   - name: 浅滩 qwq.ooo - Mastodon Server
     slug: qwq-ooo
     url: https://qwq.ooo/api/v2/instance
-    maxResponseTime: 20000
+    maxResponseTime: 10000
   - name: Islet - Mastodon Media Storage
     slug: islet
     url: https://islet.qwq.ooo
-    maxResponseTime: 10000
+    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
       - 404
   - name: Matrix Server
     slug: matrix
     url: https://matrix.qwq.ooo/_matrix/federation/v1/version
-    maxResponseTime: 20000
+    maxResponseTime: 10000
   - name: Gitea
     slug: gitea
     url: https://git.foxb612.com/api/v1/version
-    maxResponseTime: 20000
+    maxResponseTime: 10000
   - name: relay.acg.mn ActivityPub 中继
     slug: relay-acg-mn
     url: https://relay.acg.mn/inbox
     method: POST
-    maxResponseTime: 20000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 400
   - name: DragonRelay
     slug: relay-dragon-fly-club
     url: https://relay.dragon-fly.club/inbox
     method: POST
-    maxResponseTime: 20000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 400
   - name: 喵家中继
     slug: relay-nya-one
     url: https://relay.nya.one/inbox
     method: POST
-    maxResponseTime: 20000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 400
   - name: mstdn.1 Toot Relay
     slug: relay-mstdn-one
     url: https://relay.mstdn.one/inbox
     method: POST
-    maxResponseTime: 20000
+    maxResponseTime: 10000
     expectedStatusCodes:
       - 400
 
